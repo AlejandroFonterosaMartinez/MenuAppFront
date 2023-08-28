@@ -21,7 +21,7 @@ setInterval(actualizarReloj, 1000);
 actualizarReloj();
 
 // scroll reveal
-ScrollReveal().reveal('#clima, #aplicaciones,#noticias,.titulos', {
+ScrollReveal().reveal('#clima, #aplicaciones,#noticias,.titulo', {
 	delay: 500,
 	distance: '20px',
 	origin: 'right',
